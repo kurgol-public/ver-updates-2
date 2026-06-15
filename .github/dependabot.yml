@@ -12,4 +12,3 @@ updates:
       interval: "daily"
     cooldown:
       semver-minor-days: 15
-
